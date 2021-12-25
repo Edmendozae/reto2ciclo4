@@ -1,7 +1,6 @@
 package com.reto45.sa.g26.mercader.reto.model;
 
 
-import java.util.Date;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
